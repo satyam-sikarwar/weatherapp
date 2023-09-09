@@ -1,5 +1,5 @@
 # weatherapp
-It is a simple weather app using python Flask framework 
+A simple weather app using python Flask framework
 
 # output
 
